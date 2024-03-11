@@ -17,5 +17,5 @@ python movie_quiz.py
 # Option 2:
 ./movie_quiz.py
 
-(requires execute priveleges and the existance of `/usr/bin/python3`)
+(requires execute privileges and the existence of `/usr/bin/python3`)
 ```

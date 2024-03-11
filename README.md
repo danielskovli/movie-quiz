@@ -9,7 +9,7 @@ Useful as a general Python demo, or workshop icebreaker, or... well it's not ver
 - Python 3.10+
 
 ## Usage
-Modify the [movies.txt](moviex.txt) file as required, then execute the script:
+Modify the [movies.txt](movies.txt) file as required, then execute the script:
 ```cmd
 # Option 1:
 python movie_quiz.py
